@@ -24,16 +24,23 @@ Benchmark datasets and representative test images
 
 # Hardware Platform
 FPGA Board: PYNQ-Z2
-Device: AMD Xilinx XC7Z020-1CLG400C
-Design Tool: Vivado ML Edition 2022.1
-Processing System: Dual-Core ARM Cortex-A9
-Software Environment: PYNQ v2.7 with Jupyter Notebook
-Datasets
 
-# The proposed framework is evaluated using the following benchmark datasets:
+Device: AMD Xilinx XC7Z020-1CLG400C
+
+Design Tool: Vivado ML Edition 2022.1
+
+Processing System: Dual-Core ARM Cortex-A9
+
+Software Environment: PYNQ v2.7 with Jupyter Notebook
+
+# Datasets
+
+The proposed framework is evaluated using the following benchmark datasets:
 
 Set-12- https://www.kaggle.com/datasets/leweihua/set12-231008
+
 Kodak Image Dataset -https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500
+
 BSDS500 Dataset- https://www.kaggle.com/datasets/sherylmehta/kodak-dataset
 
 Mixed impulse noise consisting of 80% fixed-valued salt-and-pepper noise and 20% random-valued impulse noise is added at densities ranging from 10% to 90%.
@@ -43,16 +50,23 @@ Mixed impulse noise consisting of 80% fixed-valued salt-and-pepper noise and 20%
 The restoration performance is evaluated using:
 
 Peak Signal-to-Noise Ratio (PSNR)
+
 Structural Similarity Index (SSIM)
+
 Mean Squared Error (MSE)
+
 Image Enhancement Factor (IEF)
 
 # The hardware implementation is evaluated using:
 
 FPGA resource utilization
+
 Critical path delay
+
 Throughput
+
 Power consumption
+
 Reproducibility
 
 This repository provides the complete implementation resources required to reproduce the experimental results reported in the manuscript, including HDL source files, FPGA configuration, evaluation scripts, and representative datasets.
