@@ -39,7 +39,7 @@ The proposed framework is evaluated using the following benchmark datasets:
 
 Set-12- https://www.kaggle.com/datasets/leweihua/set12-231008
 
-Kodak Image Dataset -https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500
+Kodak Image Dataset -https://www.kaggle.com/datasets/sherylmehta/kodak-dataset
 
 BSDS500 Dataset- https://github.com/BIDS/BSDS500/tree/master/BSDS500/data/images/val
 
