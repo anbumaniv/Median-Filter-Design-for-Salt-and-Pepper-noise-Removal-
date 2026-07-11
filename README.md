@@ -41,7 +41,7 @@ Set-12- https://www.kaggle.com/datasets/leweihua/set12-231008
 
 Kodak Image Dataset -https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500
 
-BSDS500 Dataset- https://www.kaggle.com/datasets/sherylmehta/kodak-dataset
+BSDS500 Dataset- https://github.com/BIDS/BSDS500/tree/master/BSDS500/data/images/val
 
 Mixed impulse noise consisting of 80% fixed-valued salt-and-pepper noise and 20% random-valued impulse noise is added at densities ranging from 10% to 90%.
 
